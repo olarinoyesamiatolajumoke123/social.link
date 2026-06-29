@@ -1,0 +1,10 @@
+.city {
+    color: #bfe001;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.btn{
+    transition: ease-in-out;
+}
+.btn:active {
+    background-color: #bfe001;
+}
