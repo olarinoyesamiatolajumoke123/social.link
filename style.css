@@ -1,3 +1,10 @@
+.body {
+    background-color: #141414;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
 .city {
     color: #bfe001;
     font-family:Verdana, Geneva, Tahoma, sans-serif
@@ -13,11 +20,4 @@
     color: white;
     border-radius: 15px;
     padding: 30px;
-}
-.body {
-    background-color: #141414;
-    dipslay: flex;
-    justify-content: center;
-    aligh-items: center;
-    min-height: 100vh;
 }
