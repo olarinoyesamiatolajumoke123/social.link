@@ -8,3 +8,16 @@
 .btn:active {
     background-color: #bfe001;
 }
+.card {
+    background-color: #1f1f1f;
+    color: white;
+    border-radius: 15px;
+    padding: 30px;
+}
+.body {
+    background-color: #141414;
+    dipslay: flex;
+    justify-content: center;
+    aligh-items: center;
+    min-height: 100vh;
+}
